@@ -3446,7 +3446,7 @@ input, select, textarea {
 		-ms-transition: background-color 0.2s ease;
 		transition: background-color 0.2s ease;
 		background: #fff;
-		height: 3em;
+		height: 5em;
 		left: 0;
 		line-height: 3em;
 		position: fixed;
