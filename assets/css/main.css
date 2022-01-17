@@ -3464,7 +3464,7 @@ input, select, textarea {
 			left: 1.25em;
 			line-height: inherit;
 			position: absolute;
-			top: 0;
+			top: 5px;
 		}
 
 			#header h1 a {
