@@ -3359,7 +3359,7 @@ input, select, textarea {
 		padding: 3em 2em;
 		position: fixed;
 		right: 0;
-		top: 0;
+		top: 10px;
 		width: 20em;
 		z-index: 10002;
 	}
